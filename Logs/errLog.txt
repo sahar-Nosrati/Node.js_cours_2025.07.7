@@ -1,0 +1,123 @@
+Mon Mar 03 2025 10:21:48 GMT+0100 (Central European Standard Time)	ec33257e-81ca-45ea-b99c-fd395fab2b31	Error Nor allowed by cors
+Thu May 15 2025 09:40:29 GMT+0200 (Central European Summer Time)	e2f3b9ed-94c5-47ee-b7d3-66a68f069974	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 09:42:34 GMT+0200 (Central European Summer Time)	ade49452-269b-42f4-a720-4971a48d97ba	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 09:43:14 GMT+0200 (Central European Summer Time)	104affa1-2ebd-41fa-995f-0ab2e06fe1f6	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 09:46:28 GMT+0200 (Central European Summer Time)	ff07d89a-137a-498d-b6c0-e22f984ae8b4	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 09:47:20 GMT+0200 (Central European Summer Time)	06232bfa-5478-4667-9472-018b7c30d8bd	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 09:47:22 GMT+0200 (Central European Summer Time)	546332cc-0344-4d78-aab7-f05ccb7afaa1	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 09:48:55 GMT+0200 (Central European Summer Time)	db333f20-ccb0-414e-80ba-210cc9edd877	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 09:49:43 GMT+0200 (Central European Summer Time)	96ad7143-e5d3-4262-afb1-ef2412c09e44	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 09:50:28 GMT+0200 (Central European Summer Time)	fa2c5a1a-d0c6-4ddf-b582-75a6a2758299	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 09:51:04 GMT+0200 (Central European Summer Time)	29615b63-2375-4e3d-a537-5d9dcba13d59	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 09:51:19 GMT+0200 (Central European Summer Time)	abb93658-d547-47a0-9035-31c5b9114a43	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 09:51:28 GMT+0200 (Central European Summer Time)	322989bc-0f38-4834-9a71-e12b88ea23ea	SyntaxError Unexpected end of JSON input
+Thu May 15 2025 09:51:43 GMT+0200 (Central European Summer Time)	56921880-6a8b-44c3-954b-9437961ea150	SyntaxError Unexpected end of JSON input
+Thu May 15 2025 09:52:29 GMT+0200 (Central European Summer Time)	1aae07d8-fdd1-445c-9f51-90766059bfea	SyntaxError Unexpected end of JSON input
+Thu May 15 2025 09:53:25 GMT+0200 (Central European Summer Time)	75b85233-7473-4af1-b883-2bb0e74c45bb	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee'
+Thu May 15 2025 09:53:29 GMT+0200 (Central European Summer Time)	f28c4c16-a267-48c0-8d3b-9e9fd309f5f3	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee'
+Thu May 15 2025 09:54:22 GMT+0200 (Central European Summer Time)	b0051b7a-9d30-4a5c-81a9-5f27fd397179	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 09:54:29 GMT+0200 (Central European Summer Time)	0359d270-9115-4f0a-b910-171bddb398ef	SyntaxError Unexpected end of JSON input
+Thu May 15 2025 09:57:03 GMT+0200 (Central European Summer Time)	2008bc3d-4a8b-488d-aa8d-46b148629c31	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:00:32 GMT+0200 (Central European Summer Time)	ce879156-ccb7-4c22-a974-c0060271b6e5	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:07:07 GMT+0200 (Central European Summer Time)	4989e2cc-194b-4948-a48f-98656ebf775d	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:07:20 GMT+0200 (Central European Summer Time)	0655730c-9d44-4a91-909b-a03907e83f56	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:07:22 GMT+0200 (Central European Summer Time)	fc8d031b-e229-4c44-8cf9-962a34978bb3	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:07:53 GMT+0200 (Central European Summer Time)	bacaf364-c1c5-464f-8c4a-644f16fae7d3	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:07:54 GMT+0200 (Central European Summer Time)	16874fa3-f4bf-41c3-a522-d5117731a169	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:07:55 GMT+0200 (Central European Summer Time)	6580ed5a-3463-4eb8-b75f-cf6aa5c4b61c	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:08:06 GMT+0200 (Central European Summer Time)	fd3c5566-ac28-459a-82f7-01f14ae5df92	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:08:50 GMT+0200 (Central European Summer Time)	713dcb1a-25ac-4f81-8a1e-29cb5a4a754e	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:12:25 GMT+0200 (Central European Summer Time)	2f0f62b3-54bd-4b3e-bbb4-09c8a6a074ae	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:13:03 GMT+0200 (Central European Summer Time)	877da9af-1e81-4c03-bef2-7922fcf65ab3	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:13:36 GMT+0200 (Central European Summer Time)	e04d0030-1734-4da5-b2b1-f470231f851b	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:14:12 GMT+0200 (Central European Summer Time)	b82c492f-0a13-4cc8-ad64-040cfeac6c8c	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:14:14 GMT+0200 (Central European Summer Time)	761e9ae7-5dae-4013-83eb-71db9eb154a6	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:29:01 GMT+0200 (Central European Summer Time)	af92a4de-6a18-4945-90f7-1d2935947eb0	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:29:39 GMT+0200 (Central European Summer Time)	8f578fbe-0f72-403c-b201-33115beb7698	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:29:41 GMT+0200 (Central European Summer Time)	c1e9867a-4537-43c8-b230-cd5002e00067	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:29:43 GMT+0200 (Central European Summer Time)	bc89c936-2437-4564-b62d-aa46849912be	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:31:21 GMT+0200 (Central European Summer Time)	5cbd333b-e54d-46d5-9628-d244b3894d32	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:32:44 GMT+0200 (Central European Summer Time)	d518f7e7-e705-4e8e-82f0-1cdfa55f824a	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:34:10 GMT+0200 (Central European Summer Time)	ccbc2805-c937-4b4f-92fe-b06eeec38ac8	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:36:04 GMT+0200 (Central European Summer Time)	94a68f6b-d91c-415e-af85-1007fca8de3d	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:36:32 GMT+0200 (Central European Summer Time)	a509749a-bdf7-4fd2-8c90-d44d1f1c8ee9	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:38:07 GMT+0200 (Central European Summer Time)	2025f89e-a7fd-4208-a55b-28c4c0c599fa	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Thu May 15 2025 10:49:41 GMT+0200 (Central European Summer Time)	f3d67ba7-0d0f-46d9-922e-76c6f978ca96	Error ENOENT: no such file or directory, stat 'D:\Programming\Programming curiculum\Node.js_courses\data\employee.json'
+Sat May 17 2025 11:41:17 GMT+0200 (Central European Summer Time)	2a59c2af-934d-4e36-93ee-c9dcc9fd5ea8	Error Cannot set headers after they are sent to the client
+Sat May 17 2025 11:41:22 GMT+0200 (Central European Summer Time)	3e2aaee8-58d4-41cd-baa3-30b4c0a6ee21	Error Cannot set headers after they are sent to the client
+Sat May 17 2025 11:41:56 GMT+0200 (Central European Summer Time)	70ccfab3-8f31-4f41-bdf6-15d16b55be0a	Error Cannot set headers after they are sent to the client
+Sat May 17 2025 11:42:32 GMT+0200 (Central European Summer Time)	b8dfc86f-10ac-4ecb-93f7-630f1f039261	Error Cannot set headers after they are sent to the client
+Sun May 18 2025 10:31:24 GMT+0200 (Central European Summer Time)	e98f9a6d-ce32-4476-8954-c5ef7c641ca9	Error Cannot set headers after they are sent to the client
+Sun May 18 2025 10:31:58 GMT+0200 (Central European Summer Time)	b3db007c-36a6-403f-b688-5adb4dea7f1a	Error Cannot set headers after they are sent to the client
+Sun May 18 2025 10:47:18 GMT+0200 (Central European Summer Time)	b8f43f01-951e-43ef-b2cb-2d1c6fbc9db4	Error Cannot set headers after they are sent to the client
+Sun May 18 2025 11:51:04 GMT+0200 (Central European Summer Time)	c8a1b92d-1cd2-453a-ac8b-2d1e8ef9f184	SyntaxError Expected double-quoted property name in JSON at position 52 (line 4 column 1)
+Sun May 18 2025 11:52:05 GMT+0200 (Central European Summer Time)	f3ce2309-343b-4171-ae20-cb7d105771b6	Error Cannot set headers after they are sent to the client
+Sun May 18 2025 11:54:04 GMT+0200 (Central European Summer Time)	a5b08812-1d60-4dcd-9ef2-2e7b0b396892	Error Cannot set headers after they are sent to the client
+Sun May 18 2025 12:49:21 GMT+0200 (Central European Summer Time)	bcc05db0-68ac-4c3c-8f7d-e76fa146144c	SyntaxError Expected double-quoted property name in JSON at position 61 (line 4 column 3)
+Sun May 18 2025 13:05:21 GMT+0200 (Central European Summer Time)	676e5f89-c1aa-4694-9e52-d00d2436379d	SyntaxError Unexpected token '"', ""id": "3"" is not valid JSON
+Sun May 18 2025 13:16:25 GMT+0200 (Central European Summer Time)	2838474f-be24-489e-9198-7e8b1935f4fa	SyntaxError Expected property name or '}' in JSON at position 1 (line 1 column 2)
+Sun May 18 2025 13:19:49 GMT+0200 (Central European Summer Time)	4aacc532-30be-483a-ae87-9d7a3ae7e1b0	TypeError json.pars is not a function
+Sun May 18 2025 13:20:04 GMT+0200 (Central European Summer Time)	67716b10-93f6-4cdd-8213-392e9c6eedb3	ReferenceError JSONson is not defined
+Sun May 18 2025 13:20:17 GMT+0200 (Central European Summer Time)	57666319-7bea-4bb5-9b50-fb0860a97233	TypeError JSON.pars is not a function
+Sun May 18 2025 13:25:05 GMT+0200 (Central European Summer Time)	8f0ff619-788e-43ac-839c-46af3e505acd	SyntaxError Expected double-quoted property name in JSON at position 65 (line 4 column 1)
+Sun May 18 2025 13:52:56 GMT+0200 (Central European Summer Time)	0d101a18-222e-49e6-9343-39c43fd0142e	SyntaxError Expected double-quoted property name in JSON at position 41 (line 4 column 1)
+Sun May 18 2025 13:59:14 GMT+0200 (Central European Summer Time)	25d04dff-5c25-47e0-89d8-097a8a3dd406	SyntaxError Unexpected non-whitespace character after JSON at position 57 (line 4 column 4)
+Thu May 22 2025 10:53:51 GMT+0200 (Central European Summer Time)	e1d7a81c-394f-48b1-8123-9b9be579f2e1	SyntaxError Expected double-quoted property name in JSON at position 15 (line 3 column 1)
+Thu May 22 2025 10:53:58 GMT+0200 (Central European Summer Time)	9da5c816-78ab-418d-a424-4c0d1426c1bb	SyntaxError Expected double-quoted property name in JSON at position 15 (line 3 column 1)
+Thu May 22 2025 10:53:59 GMT+0200 (Central European Summer Time)	dfb496c2-3758-4bf5-af36-5b71edaf931d	SyntaxError Expected double-quoted property name in JSON at position 15 (line 3 column 1)
+Thu May 22 2025 10:54:14 GMT+0200 (Central European Summer Time)	6ea7fc89-06de-48c2-88d2-72110de0184f	SyntaxError Expected double-quoted property name in JSON at position 15 (line 3 column 1)
+Thu May 22 2025 10:54:16 GMT+0200 (Central European Summer Time)	7c49ddbf-be18-4d2f-ae63-05db2080d85e	SyntaxError Expected double-quoted property name in JSON at position 15 (line 3 column 1)
+Thu May 22 2025 10:54:18 GMT+0200 (Central European Summer Time)	7d1d1005-bc1e-4817-b7d4-c46417b64504	SyntaxError Expected double-quoted property name in JSON at position 15 (line 3 column 1)
+Thu May 22 2025 11:52:10 GMT+0200 (Central European Summer Time)	b2b77c1e-5394-46d4-a694-7e40c5623b4e	SyntaxError Expected double-quoted property name in JSON at position 16 (line 3 column 3)
+Thu May 22 2025 12:35:07 GMT+0200 (Central European Summer Time)	e348ce91-e0af-45f3-897e-423dc1608910	SyntaxError Expected ':' after property name in JSON at position 9 (line 2 column 8)
+Thu May 22 2025 12:37:40 GMT+0200 (Central European Summer Time)	5be763af-f4af-401d-bc7c-357334dcd103	SyntaxError Expected property name or '}' in JSON at position 4 (line 2 column 3)
+Thu May 22 2025 12:37:49 GMT+0200 (Central European Summer Time)	966c7b87-d2f6-4329-bc68-bfea0b502ff7	SyntaxError Unexpected token 'i', "
+  id : 1
+" is not valid JSON
+Thu May 22 2025 12:41:44 GMT+0200 (Central European Summer Time)	39d75e87-cd65-43ee-b2f4-1785db91fa2f	TypeError data.employees.finds is not a function
+Thu May 22 2025 12:54:12 GMT+0200 (Central European Summer Time)	25e00a5b-d6db-4329-a71d-78b778042039	ReferenceError employee is not defined
+Thu May 22 2025 13:06:18 GMT+0200 (Central European Summer Time)	2a7c5cc8-b3af-420b-a0d2-1eb099a5f275	Error Cannot set headers after they are sent to the client
+Thu May 22 2025 13:11:16 GMT+0200 (Central European Summer Time)	f2d0d892-2600-4e2e-a52a-474b816aadd9	TypeError Cannot read properties of undefined (reading 'find')
+Thu May 22 2025 13:41:00 GMT+0200 (Central European Summer Time)	dc34034b-e406-4bdc-98bd-960c5cabb1e1	ReferenceError employee is not defined
+Thu May 22 2025 13:47:59 GMT+0200 (Central European Summer Time)	6ffd774c-7366-4993-a1d3-36a5f258b34f	SyntaxError Expected property name or '}' in JSON at position 3 (line 2 column 2)
+Thu May 22 2025 14:17:44 GMT+0200 (Central European Summer Time)	904589b9-6df2-49ca-baea-84f48b00e897	SyntaxError Expected double-quoted property name in JSON at position 14 (line 3 column 1)
+Thu May 22 2025 14:18:28 GMT+0200 (Central European Summer Time)	56d0d3b1-33d7-4217-9a9a-93b154b097e9	SyntaxError Expected double-quoted property name in JSON at position 14 (line 3 column 1)
+Thu May 22 2025 14:18:43 GMT+0200 (Central European Summer Time)	306b4ef8-b8fb-468d-b588-c64ae9423442	SyntaxError Expected double-quoted property name in JSON at position 14 (line 3 column 1)
+Thu May 22 2025 14:18:50 GMT+0200 (Central European Summer Time)	6a1b28bd-445c-413a-9164-3c9cf3616ed9	SyntaxError Expected double-quoted property name in JSON at position 14 (line 3 column 1)
+Thu May 22 2025 14:20:14 GMT+0200 (Central European Summer Time)	3b560369-cd56-4db5-80f2-123767f2135f	SyntaxError Expected double-quoted property name in JSON at position 14 (line 3 column 1)
+Thu May 22 2025 14:20:15 GMT+0200 (Central European Summer Time)	84f67d0d-4dfc-47dd-a905-81ce10a4ae90	SyntaxError Expected double-quoted property name in JSON at position 14 (line 3 column 1)
+Thu May 22 2025 14:20:53 GMT+0200 (Central European Summer Time)	771605ad-64c2-439d-966e-8aa4e6b93ca2	SyntaxError Expected double-quoted property name in JSON at position 14 (line 3 column 1)
+Thu May 22 2025 14:21:39 GMT+0200 (Central European Summer Time)	da97d332-4d44-43fa-916e-9968c6ef54eb	SyntaxError Expected double-quoted property name in JSON at position 14 (line 3 column 1)
+Thu May 22 2025 14:22:02 GMT+0200 (Central European Summer Time)	d5d5de62-fdd1-4262-835d-4469ac877c8d	SyntaxError Expected double-quoted property name in JSON at position 14 (line 3 column 1)
+Thu May 22 2025 14:22:20 GMT+0200 (Central European Summer Time)	20721551-6aff-43a2-8672-603b5a0b3b0c	SyntaxError Expected double-quoted property name in JSON at position 14 (line 3 column 1)
+Fri May 23 2025 11:29:10 GMT+0200 (Central European Summer Time)	e4ad65b3-cfc8-44fe-8b71-93d0a0c007f9	TypeError undefined is not a function
+Fri May 23 2025 11:29:28 GMT+0200 (Central European Summer Time)	0fc44837-354e-4594-8921-cb9760ffb6f0	TypeError undefined is not a function
+Fri May 23 2025 11:31:22 GMT+0200 (Central European Summer Time)	860f2218-d591-4b1a-842d-23a67336c8f1	TypeError undefined is not a function
+Fri May 23 2025 12:38:54 GMT+0200 (Central European Summer Time)	14da4e75-510c-45c8-ad5d-7ef2df078cf4	TypeError Assignment to constant variable.
+Fri May 23 2025 13:06:33 GMT+0200 (Central European Summer Time)	54aaf480-164a-426b-9e62-d159a867387d	TypeError Cannot read properties of undefined (reading 'id')
+Fri May 23 2025 13:38:52 GMT+0200 (Central European Summer Time)	f470f51a-e271-479a-90c3-5b86d41270b9	TypeError Cannot read properties of undefined (reading 'id')
+Fri May 23 2025 13:42:18 GMT+0200 (Central European Summer Time)	1a2b63b8-00b7-485d-9242-25683f1ef1f8	ReferenceError employee is not defined
+Fri May 23 2025 13:42:50 GMT+0200 (Central European Summer Time)	4e0c4f10-bb84-45ad-93ec-b14da45ddd1f	ReferenceError employee is not defined
+Fri May 23 2025 16:15:39 GMT+0200 (Central European Summer Time)	a30da7cd-1a50-43eb-8239-69ee60c2f0f2	ReferenceError employeeId is not defined
+Fri May 23 2025 16:16:31 GMT+0200 (Central European Summer Time)	9d5fff48-6894-436d-b034-69cfbf4dc187	ReferenceError employeeId is not defined
+Fri May 23 2025 16:16:32 GMT+0200 (Central European Summer Time)	bdac1da4-ac52-4539-aecf-28a80f9de39b	ReferenceError employeeId is not defined
+Fri May 23 2025 16:17:04 GMT+0200 (Central European Summer Time)	bf1a9676-d9f9-4d03-abaf-010a87cd3a09	ReferenceError employeeId is not defined
+Fri May 23 2025 17:31:24 GMT+0200 (Central European Summer Time)	4962e342-5db5-4ca0-8795-5f5c179944c0	SyntaxError Unexpected token 'o', "[object Obj"... is not valid JSON
+Fri May 23 2025 17:32:01 GMT+0200 (Central European Summer Time)	9ed83a00-2c7f-41a1-b026-880cd52c1512	SyntaxError Unexpected token 'o', "[object Obj"... is not valid JSON
+Fri May 23 2025 17:37:00 GMT+0200 (Central European Summer Time)	173dd843-cee2-4176-a45d-785d8f775db0	SyntaxError Unexpected token 'o', "[object Obj"... is not valid JSON
+Fri May 23 2025 17:38:26 GMT+0200 (Central European Summer Time)	fa61b9bf-3812-445b-8339-a168af470520	SyntaxError Unexpected token 'o', "[object Obj"... is not valid JSON
+Fri May 23 2025 17:40:19 GMT+0200 (Central European Summer Time)	cda1a2a5-a0a4-4485-b161-c70e7425c98f	SyntaxError "undefined" is not valid JSON
+Fri May 23 2025 17:40:20 GMT+0200 (Central European Summer Time)	0ae55961-2e92-48c3-9cf4-650dbc941944	SyntaxError "undefined" is not valid JSON
+Fri May 23 2025 17:43:44 GMT+0200 (Central European Summer Time)	1ecf6393-1c37-43ea-b11c-ec72e6fe2dd0	ReferenceError employee is not defined
+Fri May 23 2025 17:44:08 GMT+0200 (Central European Summer Time)	aa7d377a-72c1-42a3-b9c3-4d83579704dd	ReferenceError employee is not defined
+Fri May 23 2025 18:08:13 GMT+0200 (Central European Summer Time)	5391df53-013e-4000-8748-c7d1cc89b5ed	ReferenceError employee is not defined
+Fri May 23 2025 18:12:31 GMT+0200 (Central European Summer Time)	86843c59-b988-45b7-9398-33cdc85cb18d	SyntaxError "[object Object]" is not valid JSON
+Fri May 23 2025 18:23:55 GMT+0200 (Central European Summer Time)	047c4f60-2df3-43bf-bb4f-1eeebd456171	SyntaxError "[object Object]" is not valid JSON
+Fri May 23 2025 18:29:36 GMT+0200 (Central European Summer Time)	a45b7fae-487f-45ee-a0c6-8fd4a766c48c	SyntaxError "[object Object]" is not valid JSON
+Fri May 23 2025 18:44:51 GMT+0200 (Central European Summer Time)	cf98e125-1b2e-4a0f-922a-8d3bc71834ad	SyntaxError Expected ',' or '}' after property value in JSON at position 17 (line 3 column 5)
+Fri May 23 2025 21:16:29 GMT+0200 (Central European Summer Time)	995e3aca-b723-4e91-b42d-7bf54e501687	ReferenceError recalculatedId is not defined
+Fri May 23 2025 21:16:51 GMT+0200 (Central European Summer Time)	009efc5e-a5ce-45fc-aeea-6a71dbb6cc4e	ReferenceError recalculatedId is not defined
+Fri May 23 2025 21:18:22 GMT+0200 (Central European Summer Time)	6225cc3c-f28c-4eb8-87f4-b0fc86333a8a	TypeError Cannot set properties of undefined (setting 'id')
+Fri May 23 2025 21:24:12 GMT+0200 (Central European Summer Time)	b66ada54-5eee-4a85-8043-faced7d6322e	TypeError Cannot read properties of undefined (reading 'parse')
+Fri May 23 2025 21:24:13 GMT+0200 (Central European Summer Time)	abcde165-08d2-463c-b7b0-74eff63c10a2	TypeError Cannot read properties of undefined (reading 'parse')
+Fri May 23 2025 22:05:21 GMT+0200 (Central European Summer Time)	9987e5ee-0a54-40e2-a69e-bba5d711c4ff	ReferenceError Invalid left-hand side in assignment

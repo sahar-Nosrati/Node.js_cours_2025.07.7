@@ -1,0 +1,29 @@
+{
+  "name": "node.js_cours_2025.05.03",
+  "version": "1.0.0",
+  "description": "Node project",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahar-Nosrati/Node.js_cours_2025.05.03.git"
+  },
+  "author": "Sahar Nosrati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahar-Nosrati/Node.js_cours_2025.05.03/issues"
+  },
+  "homepage": "https://github.com/sahar-Nosrati/Node.js_cours_2025.05.03#readme",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "uuid": "^11.1.0"
+  }
+}
